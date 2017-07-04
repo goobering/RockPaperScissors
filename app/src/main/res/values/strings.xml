@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="btn_rock_text">Rock</string>
+    <string name="btn_paper_text">Paper</string>
+    <string name="btn_scissors_text">Scissors</string>
+    <string name="txt_instructions_text">Please select Rock, Paper or Scissors.</string>
+    <string name="txt_player_choice_label">Player choice:</string>
+    <string name="txt_computer_choice_label">Computer choice:</string>
+    <string name="txt_outcome_label">Result:</string>
+    <string name="btn_start_game">Start</string>
+    <string name="txt_rules">Choose Rock, Paper or Scissors!</string>
+    <string name="txt_win_label">Win</string>
+    <string name="txt_draw_label">Draw</string>
+    <string name="txt_lose_label">Lose</string>
+    <string name="btn_done_text">Done</string>
+</resources>
